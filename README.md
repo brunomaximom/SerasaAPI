@@ -5,8 +5,8 @@ Obs: Não subi a venv nesse repositório pois da última vez que fiz isso deu mu
 
 Instruções para executar o serviço:
 
-$ sudo apt install redis python3-redis python3
-$ pip3 install pandas flask selenium
-Baixar o Chrome WebDriver do Selenium, adicioná-lo ao PATH do sistema e executá-lo
-$ export FLASK_APP=SerasaAPI.py
-$ flask run
+$ sudo apt install redis python3-redis python3<br />
+$ pip3 install pandas flask selenium<br />
+Baixar o Chrome WebDriver do Selenium, adicioná-lo ao PATH do sistema e executá-lo<br />
+$ export FLASK_APP=SerasaAPI.py<br />
+$ flask run<br />
