@@ -1,7 +1,7 @@
 # SerasaAPI
 Prova técnica Serasa Experian
 
-Obs: Não subi a venv nesse repositório pois da última vez que fiz isso deu muito errado. Porém, vou enviá-la por e-mail também.
+Obs: Não subi a venv nesse repositório pois da última vez que fiz isso deu muito errado.
 
 Instruções para executar o serviço:
 
